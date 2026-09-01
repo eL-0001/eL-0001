@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bokang Daniel Malgas
 
-<!--
-**eL-0001/eL-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Applied Business Computing student at BAC, Botswana.
 
-Here are some ideas to get you started:
+I've got small paws, but I'm taking big steps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+
+- C# and programming basics
+- Business computing and data
+- Git and GitHub
+
+## Goals
+
+- Build small, finished projects
+- Join hackathons
+- Get internships
+
+## Projects
+
+- [Simple calculator](https://github.com/eL-0001/Simple_calculator) (public, Python)
+- Odd/Even checker (private, C#)
+- Age category checker (private, C#)
